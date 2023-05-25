@@ -6,3 +6,7 @@
 .letter {
   border: 1px solid #000;
 }
+
+.container :nth-child(3) {
+  /* flex-grow: 1; */
+}
