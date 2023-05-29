@@ -1,7 +1,7 @@
 # DOM (Document Object Model)
 
 * É o HTML convertido para um Objeto JavaScript
-* API que representa e interage com o HTML
+* API que representa e interage com o HTML (Exemplo da campainha)
 * Estrutura de dados do tipo árvores, criada pelo browser
 * Propriedades e métodos
 
