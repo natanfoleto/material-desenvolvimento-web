@@ -7,7 +7,7 @@
 
 ```css
 div.parent {
-  dispplay: flex;
+  display: flex;
 }
 ```
 
